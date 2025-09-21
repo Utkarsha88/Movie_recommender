@@ -97,5 +97,3 @@ A **content-based movie recommender system** built with Python. It uses **TF-IDF
 💡 Interested in ML/AI, Data Analysis, IoT, and Software Development
 
 ---
-
-👉 Do you want me to make the README **short and minimal** (like just description + run instructions), or keep this **detailed structure**?
